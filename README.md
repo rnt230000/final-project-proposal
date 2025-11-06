@@ -1,2 +1,2 @@
 # final-project-proposal
-First Repo
+First Repo for digital art
