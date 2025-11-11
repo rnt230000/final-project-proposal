@@ -22,14 +22,15 @@ After executing the program, a window should pop up and the program should fill 
 - Glow effect. Need to research on whether or not glow effect is possible for the colors. 
 - Research on how to display parts of an image onto the surfaces.
 - Execution delay. Need to esearch on how to delay or pause an execution for 1 second.
-<- Short sentence of any skill or topic that needs to be learnt or researched.>
 
 ## Outcomes
 Ideal Outcome:
-- My idea for this project is to create a creative transition for a title screen for a made-up game using GIFs and images. 
+- My idea for this project is to create a creative transition for a title screen for a made-up game using GIFs or images. Images are already drawn and made by me, so there will be no need for me to spend time on them. I like to demonstrate the usefulness of applying images onto surfaces to make a cool transition into a title screen.
+  
+- The title screen should have a background with 4 stripe colors with images on those different colors, with a title and images that will look like buttons, but the start button will be in a loop of fading in and out.
 
 Minimal Viable Outcome:
-- The good outcome would be to demonstrate the usefulness of applying images onto surfaces and timing.
+- The only worrying part is learning how to apply GIFs onto surfaces, and how to make a glow effect might take more time than needed. The good outcome is being able to apply pieces of an image onto a surface, so I will leave the GIFs for last.
 
 ## Milestones
 
